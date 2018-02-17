@@ -13,3 +13,4 @@ option -b is for specify the cookie in request header.
 natas6: aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1
 write-up natas6: curl -XGET -u natas6:aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1 http://natas6.natas.labs.overthewire.org/includes/secret.inc
 I found this path in View Page Source.
+natas7:7z3hEENjQtflzgnT29q7wAvMNfZdh0i9 
