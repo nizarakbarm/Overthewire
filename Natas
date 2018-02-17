@@ -22,5 +22,5 @@ Write-up natas8:
 '==QcCtmMml1ViV3b
 >>> b64.b64decode("==QcCtmMml1ViV3b"[::-1])
 'oubWYf2kBq'(paste this text to input secret)
-
+natas9:W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl 
 
